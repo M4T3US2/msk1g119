@@ -1,4 +1,4 @@
-﻿// kolokwiuem  termin 1 grupa 1.cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
+﻿//k1 t 1 g 1 
 //
 
 #include "pch.h"
